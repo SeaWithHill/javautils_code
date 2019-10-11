@@ -5,4 +5,11 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>javautils_code</name>
   <description>java工具类代码实现</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.slf4j</groupId>
+  		<artifactId>slf4j-log4j12</artifactId>
+  		<version>1.7.26</version>
+  	</dependency>
+  </dependencies>
 </project>

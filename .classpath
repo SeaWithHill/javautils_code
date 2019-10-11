@@ -38,5 +38,7 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="cryptography/jars/bcprov-jdk15on-1.62.jar"/>
 	<classpathentry kind="lib" path="cryptography/jars/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="client/jars/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="client/jars/httpclient-4.5.3.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
